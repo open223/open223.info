@@ -54,6 +54,10 @@
         The following services are available through the Open223 effort. All code for these can be found on <a href="https://github.com/open223">GitHub</a>.
         <i>Please note that these services are updated semi-periodically and may not reflect the latest version of the (proposed) standard. The last time the *.open223.info pages were updated is <u>LASTUPDATED</u>.</i>
     </p>
+
+    <p>
+        The 223P ontology for the <a href="https://osr.ashrae.org/Online-Comment-Database/ShowDoc2/Table/DocumentAttachments/FileName/4301-223P_APRDraft.pdf/download/false">advisory public review</a> can be found at <a href="https://data.ashrae.org/BACnet/223p/223p.ttl">https://data.ashrae.org/BACnet/223p/223p.ttl</a>.
+    </p>
     <hr />
 
     <h3><a href="https://docs.open223.info">docs.open223.info</a></h3>
