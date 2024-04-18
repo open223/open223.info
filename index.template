@@ -58,6 +58,9 @@
     <p>
         A copy of the 223P ontology for the <a href="https://osr.ashrae.org/Online-Comment-Database/ShowDoc2/Table/DocumentAttachments/FileName/4301-223P_APRDraft.pdf/download/false">advisory public review</a> can be found at <a href="https://data.ashrae.org/BACnet/223p/223p.ttl">https://data.ashrae.org/BACnet/223p/223p.ttl</a>.
     </p>
+    <p>
+        223P has been released for <b>advisory public review</b> on the <a href="https://osr.ashrae.org">ASHRAE site</a>. Please leave your comments by May 6th 2024!
+    </p>
     <hr />
 
     <h3><a href="https://docs.open223.info">docs.open223.info</a></h3>
