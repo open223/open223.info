@@ -41,6 +41,15 @@
         #intro {
             float: right;
         }
+        .download-callout {
+            background: #fff7cc;
+            border-left: 4px solid #e0b84c;
+            border-radius: 4px;
+            padding: 12px 16px;
+        }
+        .download-callout b {
+            color: #333;
+        }
     </style>
   	<title>Open223</title>
   </head>
@@ -54,7 +63,7 @@
         <i>Please note that these services are updated semi-periodically and may not reflect the latest version of the (proposed) standard.</i>
     </p>
 
-    <h2>Advisory Public Reviews</h2>
+    <h3>Advisory Public Reviews</h3>
 
     <ul>
         <li><b>PPR 1:</b> A copy of the 223P ontology for the first <a href="https://osr.ashrae.org/Online-Comment-Database/ShowDoc2/Table/DocumentAttachments/FileName/4301-223P_APRDraft.pdf/download/false">advisory public review</a> can be found at <a href="https://data.ashrae.org/BACnet/223p/223p.ttl">https://data.ashrae.org/BACnet/223p/223p.ttl</a>.</li>
@@ -63,7 +72,7 @@
     <p>
         This and other open223 pages were last updated on <u>LASTUPDATED</u>
     </p>
-    <p>
+    <p class="download-callout">
         <b>Download the most recent version of the 223P ontology <a href="/223p.ttl">here</a></b>
     </p>
     <hr />
