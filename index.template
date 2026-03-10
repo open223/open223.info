@@ -54,12 +54,12 @@
         <i>Please note that these services are updated semi-periodically and may not reflect the latest version of the (proposed) standard.</i>
     </p>
 
-    <p>
-        A copy of the 223P ontology for the first <a href="https://osr.ashrae.org/Online-Comment-Database/ShowDoc2/Table/DocumentAttachments/FileName/4301-223P_APRDraft.pdf/download/false">advisory public review</a> can be found at <a href="https://data.ashrae.org/BACnet/223p/223p.ttl">https://data.ashrae.org/BACnet/223p/223p.ttl</a>.
-    </p>
-    <p>
-        A copy of the 223P ontology for the second advisory public review can be found <a href="/223p-1.0.0-ppr2.1.ttl">here</a>.
-    </p>
+    <h2>Advisory Public Reviews</h2>
+
+    <ul>
+        <li><b>PPR 1:</b> A copy of the 223P ontology for the first <a href="https://osr.ashrae.org/Online-Comment-Database/ShowDoc2/Table/DocumentAttachments/FileName/4301-223P_APRDraft.pdf/download/false">advisory public review</a> can be found at <a href="https://data.ashrae.org/BACnet/223p/223p.ttl">https://data.ashrae.org/BACnet/223p/223p.ttl</a>.</li>
+        <li><b>PPR 2:</b> A copy of the 223P ontology for the second advisory public review can be found <a href="/223p-1.0.0-ppr2.1.ttl">here</a>.
+    </ul>
     <p>
         This and other open223 pages were last updated on <u>LASTUPDATED</u>
     </p>
